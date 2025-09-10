@@ -32,6 +32,7 @@ Inference
 Run the inference script:
 sh inference_moe.sh
 
+```
 
 
 ## Citation
